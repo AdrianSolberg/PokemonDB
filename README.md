@@ -1,8 +1,8 @@
-# Documentation project 1 - Group 26
+# PokémonDB
 
-Website: <http://it2810-26.idi.ntnu.no/project1/>
+Web application for browsing, sorting, and filtering Pokémon.
 
-Repository: <https://git.ntnu.no/IT2810-H24/T26-Project-1>
+![PokémonDB](https://i.imgur.com/5qnG6Ln.png)
 
 ## Usage
 
