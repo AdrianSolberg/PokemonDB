@@ -8,7 +8,9 @@ on:
 
 jobs:
     build:
-        runs-on: self-hosted
+        runs-on: ubuntu-latest
+        env:
+            TZ: Europe/Oslo
         steps:
             - name: 🔄 Checkout
               uses: actions/checkout@v4
